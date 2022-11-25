@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item{
+    margin: 70px;
+}
+.list-item{
+    width: 800px;
+    height: 400px;
+    font-size: 14px;
+    position: relative;
+}
+.value{
+    color: #fff;
+    background: #a33b66;
+    padding: 6px 12px;
+    border-bottom-right-radius: 4px;
+    height: 15px;
+    width: 40px;
+    line-height: 20px;
+}
+.favorite i{
+    width: 10px;
+    position: absolute;
+    left: 138px;
+    bottom: 101px;
+}
+.crown{
+    position: absolute;
+    left: 270px;
+    bottom: 155px; 
+}
+.date{
+    font-size: 15px;
+}
